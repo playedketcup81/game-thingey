@@ -1,1 +1,1 @@
-# do not take this as a recomandasons its bad
+# do not take this serously
