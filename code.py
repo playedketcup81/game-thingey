@@ -42,3 +42,21 @@ if q4 == ya:
         print(" i think you might like rim world")
     else:
         print("i think you might like age of empiers or command and conquer")
+else:
+    q5 = input("do you like simulators")
+
+
+if  q5 == ya:
+    q5a1 = input("do you like simulators where you have a fp point of view(y) or do you want more options(n) ")
+    if q5a1 == ya:
+        q5a2 = input("do you like to hunt(y) or to drive(n)")
+        if q5a2 == ya:
+            print("i think you might like call of the wild ")
+        else:
+            print("i think you might like beamng drive or truck driving sim ")
+else:
+    q5a3 = input("do you like battle sims(y) or do you like to have control over somthing(n)")
+    if q5a3 == ya:
+        print("i think you might like tabs")
+    else:
+        print("i think you might like the sims")
