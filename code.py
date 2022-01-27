@@ -1,6 +1,6 @@
 q1 = input("do you like fps? y or n")
 ya = ("y")
-na = ("n")
+
 
 if q1 == ya:
     q1a1 = input("do you like modern games(y) or sci fi(n)")
